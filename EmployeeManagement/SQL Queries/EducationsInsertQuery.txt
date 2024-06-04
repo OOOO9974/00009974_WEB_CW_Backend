@@ -1,0 +1,6 @@
+insert into Educations (name)
+values ('Bachelors')
+,('High School')
+,('Masters')
+,('No Degree')
+,('PHD')
